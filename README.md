@@ -16,6 +16,10 @@ The Jupyter notebook file demonstrates the flux balanace anylsis simulations dsi
 
 ...
 
-Please cite: Modeling reveals metabolic basis of competition among Dehalobacter strains during tandem CF and DCM metabolism
+### Please cite: 
+
+Modeling reveals metabolic basis of competition among Dehalobacter strains during tandem CF and DCM metabolism
+
 Olivia Bulka, Elizabeth A. Edwards, Radhakrishnan Mahadevan
+
 bioRxiv 2025.03.03.641252; doi: https://doi.org/10.1101/2025.03.03.641252
